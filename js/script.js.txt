@@ -1,0 +1,11 @@
+ $(function(){
+
+ $(".box1").fadeOut(2000);
+
+ });
+
+   $(function(){
+
+        $(".box3").fadeTo(2000,0.4);
+    
+    });
